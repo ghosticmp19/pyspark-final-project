@@ -14,3 +14,7 @@ Create a data directory within your project and add the following dataset
 Known Police department Calls for Service: https://data.sfgov.org/Public-Safety/-Known-Issue-Police-Department-Calls-for-Service/hz9m-tj6z
 
 ADD THIS DIRECTORY TO YOUR .gitignore if it's not already there
+
+Rename the dataset to police-data.csv
+
+
